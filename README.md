@@ -113,6 +113,7 @@ smbclient -L //10.10.186.89/ -U bill
 
 Bill's credentials provided valid user-level access but did not grant elevated permissions.
 
+TBC...
 
 ## Summary
 
